@@ -9,7 +9,8 @@
 
 1. [打开Fomepay官方网站地址](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
-![image](https://github.com/nd1champion/US-XYK/assets/169965117/bc6e5c7e-2033-408a-8611-3b3e15177f63)
+![image](https://github.com/nd1champion/US-XYK/assets/169965117/cf488087-04f7-4685-9f13-41501744f189)
+
 
 
 2. 登录后根据自己的需求选择卡bin
